@@ -6,7 +6,7 @@ package Java;
 // Time complexity : O(n)
 // Space complexity : O(1)
 
-class Solution {
+public class NthFibonnaciNumber {
     public int fib(int n) {
         int a = 0;
         int b = 1;
