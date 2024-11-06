@@ -6,7 +6,7 @@ package Java;
 // Time complexity : O(d) , where d = number of digits in the integer n
 // Space complexity : O(1)
 
-class Solution {
+public class SubtractProductAndSum {
     public int subtractProductAndSum(int n) {
         int sum = 0;
         int product = 1;
