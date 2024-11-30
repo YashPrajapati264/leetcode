@@ -1,6 +1,8 @@
 // 344. Reverse String
 // https://leetcode.com/problems/reverse-string/description/
 
+// Approach : Two Pointer
+
 // Time complexity : O(n), where n is the length of the array
 // Space complexity : O(1), No additional data structures or auxiliary space are used.
 
