@@ -1,6 +1,8 @@
 // 136. Single Number
 // https://leetcode.com/problems/single-number/description/
 
+// Approach : XOR cancels out duplicate numbers, leaving only the unique number.
+
 // Time complexity : O(n), where n is the length of the array
 // Space complexity : O(1), No additional data structures or auxiliary space are used.
 
